@@ -29,7 +29,7 @@ The app is deployed on Netlify and can be accessed [here](https://romannumeralco
 - Documentation references and guidance were taken from W3Schools.
 
 ## Screenshots
-(https://github.com/brynsgtn/romanNumeralConverter/assets/154466344/46406080-7046-4324-9f52-cc40b493bbbe)
+#(https://github.com/brynsgtn/romanNumeralConverter/assets/154466344/46406080-7046-4324-9f52-cc40b493bbbe)
 
 
 
